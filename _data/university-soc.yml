@@ -1,9 +1,5 @@
 properties:
    - name: MLH Open Source Fellowship
      link: https://fellowship.mlh.io/
-     awards: Specifies how the contents of a replaced element should be fitted to the box established by its used height and width.
-     timeline: something
-
-   - name: object-fit
-     awards: Specifies how the contents of a replaced element should be fitted to the box established by its used height and width.
-     timeline: something
+     awards: Stipend
+     timeline: https://fellowship.mlh.io/programs/open-source

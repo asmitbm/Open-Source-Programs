@@ -1,9 +1,63 @@
 properties:
-   - name: MLH Open Source Fellowship
-     link: https://fellowship.mlh.io/
-     awards: Specifies how the contents of a replaced element should be fitted to the box established by its used height and width.
-     timeline: something
+   - name: Hacktoberfest
+     link: https://hacktoberfest.digitalocean.com/
+     awards: Swag Rewards
+     timeline: https://hacktoberfest.digitalocean.com/details
 
-   - name: object-fit
-     awards: Specifies how the contents of a replaced element should be fitted to the box established by its used height and width.
-     timeline: something
+   - name: BOSS - Bountiful Open Source Summer
+     link: https://lab.codingblocks.com/boss
+     awards: Prizes For Winners
+     timeline: https://lab.codingblocks.com/boss#rules-and-eligibility
+                    
+   - name: 24 Pull Requests
+     link: https://24pullrequests.com/
+     awards: No Prizes Offered
+     timeline: https://24pullrequests.com/about
+                         
+   - name: FOSSASIA Codeheat
+     link: https://codeheat.org/
+     awards: Cash Prizes For Winners
+     timeline: https://codeheat.org/#timeline
+                              
+   - name: GirlScript Summer of Code
+     link: https://gssoc.girlscript.tech/
+     awards: Prizes, swag rewards and internship opportunities for winners
+     timeline: https://gssoc.girlscript.tech/schedule
+                                   
+   - name: GirlScript Winter of Contributing
+     link: https://gwoc.girlscript.tech/
+     awards: Prizes, swag rewards and certificate
+     timeline: https://gwoc.girlscript.tech/
+                                       
+   - name: Script Winter of Code
+     link: https://swoc.scriptindia.org/
+     awards: Prizes, swag rewards and internship opportunities for winners
+     timeline: https://swoc.scriptindia.org/
+                              
+   - name: Data Driven Competitions
+     link: https://www.drivendata.org/competitions/
+     awards: Cash Prizes For Winners
+     timeline: https://www.drivendata.org/competitions
+         
+   - name: Halite AI Bot Challenge
+     link: https://halite.io/
+     awards: Swag rewards for Winners
+           
+   - name: ACM MM Open Source Software Competition
+     link: http://sigmm.org/Resources/software/ossc
+     awards: Prizes for Winners
+            
+   - name: OSS World Challenge
+     link: https://www.oss.kr/en_oss_world_challenage
+     awards: Prizes For Winners
+     timeline: https://www.oss.kr/en_oss_world_challenage#period
+                
+   - name: OpenForce
+     link: https://www.openforce.tech/
+     awards: Prizes For Winners
+     timeline: https://www.openforce.tech/
+                   
+   - name: Hacksquad
+     link: https://www.openforce.tech/
+     awards: Prizes For Winners
+     timeline: https://www.openforce.tech/

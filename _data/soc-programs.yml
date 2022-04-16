@@ -84,7 +84,7 @@ properties:
      awards: No stipend
      timeline: https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md#week-1
                
-   - name: Reinforcement Learning Open Source Fest
+   - name: Reinforcement Learning Open Source Fest
      link: https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/
      awards: Stipend
      timeline: https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/timeline/
@@ -103,12 +103,7 @@ properties:
      link: https://rada.re/gsoc/2020/
      awards: No stipend
      timeline: https://rada.re/gsoc/2020/
-                
-   - name: 24 Pull Requests
-     link: https://24pullrequests.com/
-     awards: No stipend
-     timeline: https://24pullrequests.com/about
-                
+ 
    - name: Open Summer of Code
      link: https://osoc.be/
      awards: Stipend
