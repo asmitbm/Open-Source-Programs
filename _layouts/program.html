@@ -29,7 +29,11 @@ layout: default
 		      </td>
 		      <td class="awards">{{property.awards}}</td>
 		      <td class="timeline">
+				{% if property.timeline %}
 				<a href="{{ property.timeline }}" target="_blank" class="cf">Timeline</a>
+				{% else %}
+				<p>N/A</p>
+				{% endif %}
 			  </td>
 		    </tr>
 		    {% endfor %}		    
