@@ -1,0 +1,59 @@
+/* *************
+
+	PROGRAM
+	
+*************** */
+
+
+.program-section {
+	border-bottom: 1px solid $med-grey;
+	margin-bottom: 40px;
+	padding-bottom: 30px;
+}
+
+/* Table */
+.property-table {
+	border: 2px solid $med-grey;
+	background-color: rgb(250, 250, 250);
+	width: 100%;
+	margin: 2em 0;
+	font-size: 1.8rem;
+
+	thead {
+		font-weight: 700;
+		text-align: left;
+		background-color: rgb(230, 230, 230);
+
+		tr th {
+			padding: 7px;
+		}
+	}
+
+	tr {
+		border-bottom: 3px solid $med-grey;
+
+	}
+
+	td, th {
+		border-right: 3px solid $med-grey;
+		padding: 10px;
+	}
+
+}
+
+.property-table-default {
+	td.name, 
+	th.name {
+		width: 40%;
+	}
+
+	td.awards, 
+	th.awards {
+		width: 20%;
+	}
+
+	td.timeline, 
+	th.timeline {
+		width: 40%;
+	}
+}

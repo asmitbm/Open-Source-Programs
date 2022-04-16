@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<header class="page-header">
+	<p class="page-subtitle">The list of</p>
+	<h1>{{ page.title | escape }}</h1>
+</header>
+
+<main class="page-main">
+	
+	<!-- Table -->	
+	<section id="property-overview" class="program-section">
+		<h2>Overview</h2>
+		<table class="property-table property-table-default">
+		  <thead>
+		    <tr>
+		      <th class="name">Name</th>
+		      <th class="awards">Awards</th>
+		      <th class="timeline">Timeline</th>
+		    </tr>
+		  </thead>
+		  <tbody>
+
+		    {% for property in site.data[page.data_file].properties %}
+
+		    <tr>
+		      <td class="name">
+		        <a href="{{ property.link }}" target="_blank" class="cf">{{ property.name }}</a>
+		      </td>
+		      <td class="awards">{{property.awards}}</td>
+		      <td class="timeline">{{property.timeline}}</td>
+		    </tr>
+		    {% endfor %}		    
+		  </tbody>
+		</table>
+	</section>
+
+</main>

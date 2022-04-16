@@ -1,0 +1,35 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Open Source Programs
+email: asmitbm2952002@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A curated list of all the open-source internships/Programs
+baseurl: "Open-Source-Programs" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+twitter_username: Asmit_2952
+github_username:  Asmit2952
+
+# Build settings
+markdown: kramdown
+
+
+
+# Custom Collection
+
+collections:
+  programs:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - 
+    scope:
+      type: "programs"
+    values:
+      layout: "program"

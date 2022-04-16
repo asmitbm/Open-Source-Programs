@@ -1,0 +1,67 @@
+/* *************
+
+	PROGRAM- FLEX
+	
+*************** */
+
+.flex-container {
+	min-height: 100px;
+	border: 2px dashed rgb(100, 100, 100);
+}
+
+.flex-container-example {
+	.flex-container {
+		display: flex;
+	}
+
+	.flex-container.flex-wrap,
+	.flex-container.align-content {
+		max-width: 150px;
+	}
+
+	.flex-container.align-content {
+		flex-wrap: wrap;
+		min-height: 200px;
+	}
+	
+}
+
+
+.flex-item-example {
+	.flex-container {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.example-flex-item {
+		border: 5px solid #000;
+		line-height: 40px;
+	}
+}
+
+
+
+.flex-item {
+	height: 50px;
+	width: 50px;
+	text-align: center;
+	line-height: 50px;
+	color: #fff;
+	font-weight: 600;
+}
+
+
+.flex-item:nth-child(1) { background-color: #0074D9; }
+.flex-item:nth-child(2) { background-color: #3D9970; }
+.flex-item:nth-child(3) { background-color: #FF4136; }
+.flex-item:nth-child(4) { background-color: #FFDC00; }
+.flex-item:nth-child(5) { background-color: #B10DC9; }
+.flex-item:nth-child(6) { background-color: #85144b; }
+
+#flex-shrink {
+
+	.flex-item {
+		flex-basis: 50px;
+	}
+}

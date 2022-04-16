@@ -1,0 +1,64 @@
+/* *************
+
+	TYPE
+	
+*************** */
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-size: 1.4rem;
+	line-height: 1.6;
+	font-family: $font-family;
+	font-weight: 400;
+}
+
+header {
+	display: block;
+}
+
+h1 {
+	font-size: 3rem;
+	font-weight: 700;
+}
+
+h2 {
+	font-size: 2rem;
+	font-style: italic;
+	margin-bottom: 30px;
+}
+
+h3 {
+	font-size: 1.6rem;
+	font-weight: 600;
+}
+
+h4 {
+	font-weight: 600;
+	font-size: 1.4rem;
+}
+
+.cf {
+	font-family: $font-family;
+}
+
+a,
+a:visited {
+	color: #3299CC;
+}
+
+
+strong {
+	font-weight: 700;
+}
+
+.page-subtitle {
+	font-style: italic;
+}
+
+.site-footer {
+	font-size: 1.3rem;
+	font-style: italic;
+}

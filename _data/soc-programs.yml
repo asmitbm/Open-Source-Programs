@@ -1,0 +1,95 @@
+properties:
+   - name: MLH Open Source Fellowship
+     link: https://fellowship.mlh.io/
+     awards: Stipend
+     timeline: https://fellowship.mlh.io/programs/open-source
+
+   - name: Google Season of Docs
+     link: https://developers.google.com/season-of-docs/
+     awards: Stipend
+     timeline: https://developers.google.com/season-of-docs/docs/timeline
+
+   - name: Google Summer of Code
+     link: https://developers.google.com/open-source/gsoc/
+     awards: Stipend
+     timeline: https://summerofcode.withgoogle.com/how-it-works/#timeline
+     
+   - name: Summer of Bitcoin
+     link: https://www.summerofbitcoin.org/
+     awards: Stipend
+     timeline: https://www.summerofbitcoin.org/how-it-works
+     
+   - name: Season of KDE
+     link: https://season.kde.org/
+     awards: Merchandise and Swag
+     timeline: https://season.kde.org/
+     
+   - name: Outreachy
+     link: https://www.outreachy.org/
+     awards: Stipend
+     timeline: https://www.outreachy.org/docs/applicant/#outreachy-schedule
+     
+   - name: LFX Mentorship
+     link: https://lfx.linuxfoundation.org/tools/mentorship/
+     awards: Stipend
+     timeline: https://mentorship.lfx.linuxfoundation.org/#projects_all
+          
+   - name: LFN Mentorship
+     link: https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program
+     awards: Stipend
+     timeline: https://wiki.lfnetworking.org/display/LN/Program+Timeline
+      
+   - name: Linux Kernel Mentorship Program
+     link: https://wiki.linuxfoundation.org/lkmp
+     awards: Stipend
+     timeline: https://wiki.linuxfoundation.org/lkmp/lkmp_schedule
+           
+   - name: 24 Pull Requests
+     link: https://24pullrequests.com/
+     awards: No stipend
+     timeline: https://24pullrequests.com/about
+           
+   - name: GNOME Internships
+     link: https://wiki.gnome.org/Outreach
+     awards: Stipend
+     timeline: https://wiki.gnome.org/Outreach
+                
+   - name: CNCF Mentoring
+     link: https://github.com/cncf/mentoring
+     awards: Stipend
+     timeline: https://github.com/cncf/mentoring
+                     
+   - name: Open Mainframe Project Mentorship Program
+     link: https://www.openmainframeproject.org/projects/mentorship-program
+     awards: Stipend
+     timeline: https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+               
+   - name: Reinforcement Learning Open Source Fest
+     link: https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/
+     awards: Stipend
+     timeline: https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/timeline/
+               
+   - name: Free Software Foundation Internship
+     link: https://julialang.org/jsoc/
+     awards: No stipend
+     timeline: https://www.fsf.org/volunteer/internships
+          
+   - name: Julia Seasons of Contributions
+     link: https://julialang.org/jsoc/
+     awards: Stipend
+     timeline: https://julialang.org/jsoc/guidelines/
+               
+   - name: The X.Org Endless Vacation of Code
+     link: https://www.x.org/wiki/XorgEVoC/
+     awards: Stipend
+     timeline: https://www.x.org/wiki/XorgEVoC/
+                    
+   - name: Summer of Haskell
+     link: https://summer.haskell.org/
+     awards: Stipend
+     timeline: https://summer.haskell.org/
+     
+   - name: Rails Girls Summer of Code
+     link: https://railsgirlssummerofcode.org/
+     awards: Stipend
+     timeline: https://railsgirlssummerofcode.org/

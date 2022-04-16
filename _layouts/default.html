@@ -1,0 +1,46 @@
+---
+---
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>
+      {% if page.title %}
+        {{ page.title | escape }} | {{ site.title | escape }}
+      {% else %}
+        {{ site.title | escape }}
+      {% endif %}
+    </title>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+
+  </head>
+
+  <body>
+
+    <header class="site-header">
+      <div class="container">
+        <a href="/">Open Source programs</a>
+      </div>
+    </header>
+  
+    <div class="container site-main">
+      {{ content }}
+
+      <footer class="site-footer">
+        Made by: <a href="https://twitter.com/Asmit_2952">@Asmit_2952</a>
+      </footer>
+    </div>
+
+    
+  
+    <script src="//cdn.jsdelivr.net/caniuse-embed/1.0.0/caniuse-embed.min.js"></script>
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
+  </body>
+
+</html>
