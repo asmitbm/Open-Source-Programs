@@ -28,7 +28,9 @@ layout: default
 		        <a href="{{ property.link }}" target="_blank" class="cf">{{ property.name }}</a>
 		      </td>
 		      <td class="awards">{{property.awards}}</td>
-		      <td class="timeline">{{property.timeline}}</td>
+		      <td class="timeline">
+				<a href="{{ property.timeline }}" target="_blank" class="cf">Timeline</a>
+			  </td>
 		    </tr>
 		    {% endfor %}		    
 		  </tbody>
