@@ -44,25 +44,45 @@ properties:
      awards: Stipend
      timeline: https://wiki.linuxfoundation.org/lkmp/lkmp_schedule
            
-   - name: 24 Pull Requests
-     link: https://24pullrequests.com/
-     awards: No stipend
-     timeline: https://24pullrequests.com/about
-           
    - name: GNOME Internships
      link: https://wiki.gnome.org/Outreach
      awards: Stipend
      timeline: https://wiki.gnome.org/Outreach
+                
+   - name: Google Summer of Earth Engine
+     link: https://sites.google.com/view/summerofearthengine/home
+     awards: Stipend
+     timeline: https://sites.google.com/view/summerofearthengine/timeline
                 
    - name: CNCF Mentoring
      link: https://github.com/cncf/mentoring
      awards: Stipend
      timeline: https://github.com/cncf/mentoring
                      
+   - name: Processing Foundation Fellowships
+     link: https://processingfoundation.org/fellowships/
+     awards: Stipend
+     timeline: https://processingfoundation.org/fellowships/
+                     
    - name: Open Mainframe Project Mentorship Program
      link: https://www.openmainframeproject.org/projects/mentorship-program
      awards: Stipend
      timeline: https://mentorship.lfx.linuxfoundation.org/#projects_accepting
+                          
+   - name: Hyperledger Mentorship Program
+     link: https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program
+     awards: Stipend
+     timeline: https://wiki.hyperledger.org/display/INTERN/How+to+Apply
+                               
+   - name: FOSSASIA Internship Program
+     link: https://fossasia.org/internship
+     awards: Stipend
+     timeline: https://fossasia.org/internship
+                                    
+   - name: Kubernetes Release Team Shadows
+     link: https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md
+     awards: No stipend
+     timeline: https://github.com/kubernetes/sig-release/blob/master/release-team/shadows.md#week-1
                
    - name: Reinforcement Learning Open Source Fest
      link: https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/
@@ -73,16 +93,81 @@ properties:
      link: https://julialang.org/jsoc/
      awards: No stipend
      timeline: https://www.fsf.org/volunteer/internships
+                    
+   - name: Millennium Fellowship
+     link: https://www.millenniumfellows.org/
+     awards: No stipend
+     timeline: https://www.millenniumfellows.org/fellowship
+                    
+   - name: Radare Summer of Code
+     link: https://rada.re/gsoc/2020/
+     awards: No stipend
+     timeline: https://rada.re/gsoc/2020/
+                
+   - name: 24 Pull Requests
+     link: https://24pullrequests.com/
+     awards: No stipend
+     timeline: https://24pullrequests.com/about
+                
+   - name: Open Summer of Code
+     link: https://osoc.be/
+     awards: Stipend
+     timeline: https://osoc.be/practical
+                     
+   - name: Open Source Promotion Plan
+     link: https://summer-ospp.ac.cn/
+     awards: Stipend
+     timeline: https://summer-ospp.ac.cn/help/en/timeline/
+                     
+   - name: DataONE Summer Internship Program
+     link: https://old.dataone.org/internships
+     awards: Stipend
+     timeline: https://old.dataone.org/internships
           
    - name: Julia Seasons of Contributions
      link: https://julialang.org/jsoc/
      awards: Stipend
      timeline: https://julialang.org/jsoc/guidelines/
                
+   - name: RubyMe Mentorship Program
+     link: https://rubyme.org/
+     awards: Stipend
+     timeline: https://rubyme.org/
+               
+   - name: John Hunter Matplotlib Summer Fellowship
+     link: https://numfocus.org/programs/john-hunter-technology-fellowship
+     awards: Stipend
+     timeline: https://numfocus.org/programs/john-hunter-technology-fellowship
+                    
+   - name: Igalia Coding Experience Program
+     link: https://www.igalia.com/coding-experience/
+     awards: Stipend
+     timeline: https://www.igalia.com/coding-experience/
+               
    - name: The X.Org Endless Vacation of Code
      link: https://www.x.org/wiki/XorgEVoC/
      awards: Stipend
      timeline: https://www.x.org/wiki/XorgEVoC/
+                    
+   - name: Hack the Planet Scholarship
+     link: https://redpanda.com/scholarship/
+     awards: Stipend
+     timeline: https://redpanda.com/scholarship/
+                    
+   - name: RARE Technologies Student Incubator Program
+     link: https://rare-technologies.com/incubator/#details
+     awards: Stipend
+     timeline: https://rare-technologies.com/incubator/#admission_process
+                         
+   - name: Tencent Rhino-bird Open-source Training Program
+     link: https://opensource.tencent.com/summer-of-code
+     awards: Stipend
+     timeline: https://opensource.tencent.com/summer-of-code#flow
+                         
+   - name: Redox OS Summer of Code
+     link: https://www.redox-os.org/rsoc/
+     awards: Stipend
+     timeline: https://www.redox-os.org/rsoc/
                     
    - name: Summer of Haskell
      link: https://summer.haskell.org/
@@ -93,3 +178,8 @@ properties:
      link: https://railsgirlssummerofcode.org/
      awards: Stipend
      timeline: https://railsgirlssummerofcode.org/
+          
+   - name: Alibaba Summer of Code
+     link: https://www.alibabacloud.com/campaign/summerofcode2020
+     awards: Stipend
+     timeline: https://www.alibabacloud.com/campaign/summerofcode2020
