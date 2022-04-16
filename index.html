@@ -6,6 +6,6 @@ subtitle: A collection of various Open Source programs
 
 <ul class="program-list">
   {% for links in site.programs %}
-  <li><a href="{{ links.url }}">{{ links.title }}</a></li>
+  <li><a href="{{ links.url | relative_url }}">{{ links.title }}</a></li>
   {% endfor %}
 </ul>

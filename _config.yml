@@ -10,8 +10,8 @@ title: Open Source Programs
 email: asmitbm2952002@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A curated list of all the open-source internships/Programs
-baseurl: "Open-Source-Programs" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/Open-Source-Programs" # the subpath of your site, e.g. /blog
+url: "asmit2952.github.io" # the base hostname & protocol for your site
 twitter_username: Asmit_2952
 github_username:  Asmit2952
 
